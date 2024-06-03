@@ -16,7 +16,7 @@
 - 🖼️ Sử dụng: SofMax Regression, SVM, Clustering, ANN, Convolutional Neural Networks (CNN)
 - 📋 Mô tả:  
 Xây dựng mô hình phân loại hình ảnh  
-    - Tế bào học tuyến giáp từ bệnh viện Trung ương 108, phân nhãn theo thang chuẩn Bethesda. Đây là **dự án nghiên cứu khoahọc chính của tôi hiện tại và giúp tôi đạt giải**, chi tiết tại: https://github.com/Harito97/ThyroidCancer
+    - Tế bào học tuyến giáp từ bệnh viện Trung ương 108, phân nhãn theo thang chuẩn Bethesda. Đây là **dự án nghiên cứu khoa học chính của tôi hiện tại và giúp tôi đạt giải NCKH**, chi tiết tại: https://github.com/Harito97/ThyroidCancer
     - Mô bệnh học dạ dày, phân loại Normal và Abnormal, chi tiết tại: https://github.com/Harito97/GasHisClassifier
     - Năm loài động vật, chi tiết tại: https://github.com/Harito97/AnimalClassifier
   
