@@ -36,7 +36,7 @@ Và còn 1 số dự án khác.
       
 <p>
     <img src="img/NCKH_cap_khoa_2024.jpg" alt="NCKH cấp Khoa" width="40%">
-    <img src="img/NCKH_cap_truong_2024.jpg" alt="NCKH cấp Trường" width="40%">
+    <img src="img/NCKH_cap_truong_2024.jpg" alt="NCKH cấp Trường" width="41.3%">
 </p>
   
 - Về kiến thức Toán học  
@@ -44,5 +44,5 @@ Và còn 1 số dự án khác.
       
 <p>
     <img src="img/HB_trong_diem_toan_hoc_qg_ky_I_2023.jpg" alt="HB Trong Diem Toan Hoc Ky I 2023" width="40%">
-    <img src="img/HB_trong_diem_toan_hoc_qg_ky_II_2024.jpg" alt="HB Trong Diem Toan Hoc Ky II 2024" width="40%">
+    <img src="img/HB_trong_diem_toan_hoc_qg_ky_II_2024.jpg" alt="HB Trong Diem Toan Hoc Ky II 2024" width="41.3%">
 </p>
