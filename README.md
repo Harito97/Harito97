@@ -3,6 +3,7 @@
 - 🌱 Hiện tại tôi đang học ngành Khoa học dữ liệu  
 - 👯 Mục tiêu nghề nghiệp của tôi là làm việc và phát triển trong lĩnh vực AI + Khoa học dữ liệu. Áp dụng kiến thức đã học vào thực tế và học hỏi thêm từ các chuyên gia  
 - 📫 Để liên hệ với tôi: harito.work@gmail.com  
+- 🔔 Cập nhật thông tin về tôi sớm nhất tại: https://www.linkedin.com/in/harito97  
   
 ## 🔧 Kỹ năng 
   
