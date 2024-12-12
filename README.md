@@ -2,11 +2,11 @@
 
 ### 📈 Statistics
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harito97&theme=graywhite) |
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harito97&theme=graywhite) |
 |:---------------------------------------------------------------------------------------------------------------:|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harito97&theme=graywhite) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harito97&theme=graywhite&utcOffset=7) |
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harito97&theme=graywhite) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harito97&theme=graywhite&utcOffset=7) |
 |:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harito97&theme=graywhite) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harito97&theme=graywhite) |
+| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harito97&theme=graywhite) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harito97&theme=graywhite) |
 
 ---
 
