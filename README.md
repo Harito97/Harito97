@@ -16,15 +16,14 @@
 ---
 
 ## Contribution Streak
-[![](https://github-readme-streak-stats.herokuapp.com?user=Harito97&theme=graywhite)](https://git.io/streak-stats)
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=Harito97)](https://git.io/streak-stats)
 
 ---
 
 ## Achievements & Badges
 
-[![](https://github-profile-trophy.vercel.app/?username=Harito97&theme=graywhite&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://activity-graph.herokuapp.com/graph?username=Harito97&theme=graywhite&hide_border=true&area=true)
+[![](https://github-profile-trophy.vercel.app/?username=Harito97&theme=graywhite&column=3&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -33,12 +32,12 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 
 ### 🛠️ Tools
@@ -63,7 +62,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - **Other Tools**:
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -76,16 +75,14 @@ I am particularly fond of Linux and use Arch Linux. You can learn more about how
 
 ### 📊 Areas of interest
 
-- **AI**
-- **Machine Learning**
-- **Deep Learning**
-- **Data Analysis**
-- **Data Engineering**
-- **Data Science**
+| **AI** | **Machine Learning** | **Deep Learning** |
+|--------|-----------------------|-------------------|
+| **Data Analysis** | **Data Engineering** | **Data Science** |
 
 ---
 
 ## Fun Stats
 
 ![](https://komarev.com/ghpvc/?username=Harito97&color=brightgreen&style=flat-square)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)
