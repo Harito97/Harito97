@@ -1,12 +1,9 @@
 # Hi! I'm Harito (aka Hai Pham-Ngoc)
 
-## 📊 GitHub Stats
-
-### 📄 Profile Summary
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harito97&theme=graywhite)
-
 ### 📈 Statistics
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harito97&theme=graywhite) |
+|:---------------------------------------------------------------------------------------------------------------:|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harito97&theme=graywhite) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harito97&theme=graywhite&utcOffset=7) |
 |:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harito97&theme=graywhite) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harito97&theme=graywhite) |
@@ -15,8 +12,12 @@
 
 ## 📚 Research Plans
 
-### Research Interests:
+### 📊 Areas of Interest
 **Applications of AI and Data Science** in diverse fields such as Healthcare, Finance, Agriculture, and Manufacturing.
+
+| **AI**                | **Machine Learning** | **Deep Learning**   |
+|------------------------|-----------------------|---------------------|
+| **Data Analysis**      | **Data Engineering** | **Data Science**    |
 
 ### Plans:
 
@@ -31,7 +32,7 @@
 ## 🏆 Achievements
 
 <p>
-    <img src="figs/ScienceResearch_2024.jpg" alt="Science Research - VNU-HUS - 2024" width="41.3%">
+    <img src="figs/ScienceResearch_2024.jpg" alt="Science Research - VNU-HUS - 2024" width="40%">
     <img src="figs/VIASM_2023_2024.jpg" alt="VIASM 2023-2024" width="40%">
 </p>
 
@@ -43,6 +44,17 @@
 [![](https://github-profile-trophy.vercel.app/?username=Harito97&theme=graywhite&column=3&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠️ Favorite Tools & Technologies
+
+- **Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 - **Machine Learning & AI**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -67,14 +79,8 @@
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🐧 Linux
+### Linux
 I am particularly fond of Linux and use Arch Linux. You can learn more about how I configure Arch Linux at: [Setup Arch Linux](https://github.com/Harito97/SetupArch)
-
-### 📊 Areas of Interest
-
-| **AI**                | **Machine Learning** | **Deep Learning**   |
-|------------------------|-----------------------|---------------------|
-| **Data Analysis**      | **Data Engineering** | **Data Science**    |
 
 ---
 
