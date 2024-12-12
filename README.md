@@ -2,7 +2,7 @@
 
 ### 📈 Statistics
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harito97&theme=graywhite" width="88%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harito97&theme=graywhite" width="86.5%"/>
 
 | ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harito97&theme=graywhite) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harito97&theme=graywhite&utcOffset=7) |
 |:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
@@ -33,7 +33,7 @@
 
 <p>
     <img src="figs/ScienceResearch_2024.jpg" alt="Science Research - VNU-HUS - 2024" width="40%">
-    <img src="figs/VIASM_2023_2024.jpg" alt="VIASM 2023-2024" width="41.2%">
+    <img src="figs/VIASM_2023_2024.jpg" alt="VIASM 2023-2024" width="40.5%">
 </p>
 
 ---
