@@ -12,8 +12,8 @@
 
 ## 📚 Research Plans
 
-### 📊 Areas of Interest
-**Applications of AI and Data Science** in diverse fields such as Healthcare, Finance, Agriculture, and Manufacturing.
+### Areas of Interest:
+**Applications of AI and Data Science** in Healthcare, Finance, Agriculture, and Manufacturing.
 
 | **AI**                | **Machine Learning** | **Deep Learning**   |
 |------------------------|-----------------------|---------------------|
@@ -32,8 +32,8 @@
 ## 🏆 Achievements
 
 <p>
-    <img src="figs/ScienceResearch_2024.jpg" alt="Science Research - VNU-HUS - 2024" width="40%">
-    <img src="figs/VIASM_2023_2024.jpg" alt="VIASM 2023-2024" width="40.5%">
+    <img src="figs/ScienceResearch_2024.jpg" alt="Science Research - VNU-HUS - 2024" style="height: 300px;">
+    <img src="figs/VIASM_2023_2024.jpg" alt="VIASM 2023-2024" style="height: 300px;">
 </p>
 
 ---
